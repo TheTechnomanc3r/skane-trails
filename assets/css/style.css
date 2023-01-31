@@ -12,13 +12,24 @@ body {
     color: #A1C084;
 }
 
-h1, h2 {
+h1 {
     font-family: Outfit, Verdana;
+    color: #A1C084;
+}
+
+h2 {
+    font-family: Outfit, Verdana;
+    color: #A1C084;
+}
+
+.brown-text {
+    color:#453621;
 }
 
 #logo {
     float: left;
     margin-left: 20px;
+    
 }
 
 #menu {
@@ -63,6 +74,7 @@ h1, h2 {
 
 #description {
     height: 600px;
+    margin-left: 20px;
 
 }
 
@@ -85,8 +97,9 @@ h1, h2 {
     height: 300px;
     padding: 30px;
     border-style: solid;
-    border-color: #A1C084;
+    border-color:#453621;
     border-width: 1px;
+
 
 
 }
@@ -103,7 +116,33 @@ h1, h2 {
     width:30%;
     height: 200px;
     float: left;
-    padding: 30px 0 0 10px;
+    padding: 20px 0 0 0;
     text-align: center;
     border: 10px solid #FFFFFF;
+} 
+
+#forest-image {
+    background: url('../images/Forest1.jpg') no-repeat center center;
+    height: 80%;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+
+}
+
+#valley-image {
+    background: url('../images/Valley1.jpg') no-repeat center center;
+    height: 80%;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+#coast-image {
+    background: url('../images/Coast1.jpg') no-repeat center center;
+    height: 80%;
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    
 }
