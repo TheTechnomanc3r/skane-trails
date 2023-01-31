@@ -53,11 +53,29 @@ h1, h2 {
     height: 400px;
     width: 100%;
     background: url('../images/skanewelcome.jpg') no-repeat center center;
-   /* margin: auto; */
+
 }
 
 #skane-welcome {
     height: 400px;
     width: 100%;
     overflow: hidden;
+}
+
+#description {
+    height: 600px;
+
+}
+
+#left-desc {
+    padding-top: 30px;
+    width: 66%;
+    float: left;
+    
+}
+
+#right-desc {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
 }
