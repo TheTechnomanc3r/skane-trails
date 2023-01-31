@@ -7,7 +7,16 @@
 }
 
 body {
-    font-family: Outfit;
+    font-family: Lato, Verdana;
     font-weight: 300;
+}
+
+h1, h2 {
+    font-family: Outfit, Verdana;
+   
+}
+
+#logo {
+    float: left;
 }
 
