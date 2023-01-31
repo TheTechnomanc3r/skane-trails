@@ -20,3 +20,13 @@ h1, h2 {
     float: left;
 }
 
+#menu {
+    font-size: 120%;
+}
+
+#menu li {
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+}
+
