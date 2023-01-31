@@ -71,6 +71,7 @@ h1, h2 {
     padding-top: 30px;
     width: 66%;
     float: left;
+    background-color: aquamarine;
     
 }
 
@@ -78,4 +79,10 @@ h1, h2 {
     padding-top: 30px;
     width: 33%;
     float: right;
+    background-color: brown;
+}
+
+#right-imgage {
+    background:  url('../images/skanestairs.jpg');
+    height: 100%;
 }
