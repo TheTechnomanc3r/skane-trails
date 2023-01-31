@@ -19,6 +19,7 @@ h1, h2 {
 
 #logo {
     float: left;
+    margin-left: 20px;
 }
 
 #menu {
@@ -49,7 +50,14 @@ h1, h2 {
 }    
 
 #welcome-image {
-    height: 100%;
-    width: 90%;
+    height: 400px;
+    width: 100%;
     background: url('../images/skanewelcome.jpg') no-repeat center center;
+   /* margin: auto; */
+}
+
+#skane-welcome {
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
 }
