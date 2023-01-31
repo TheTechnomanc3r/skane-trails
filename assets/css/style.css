@@ -146,3 +146,22 @@ h2 {
     text-align: center;
     
 }
+
+footer {
+    height: 200px;
+}
+
+.socials {
+    text-align: center;
+}
+
+.socials > li {
+    display: inline;
+}
+
+.socials i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: #453621;
+}
