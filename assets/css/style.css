@@ -47,3 +47,9 @@ h1, h2 {
     border-bottom: 1px solid #453621; 
 
 }    
+
+#welcome-image {
+    height: 100%;
+    width: 90%;
+    background: url('../images/skanewelcome.jpg') no-repeat center center;
+}
