@@ -79,10 +79,22 @@ h1, h2 {
     padding-top: 30px;
     width: 33%;
     float: right;
-    background-color: brown;
 }
 
-#right-imgage {
-    background:  url('../images/skanestairs.jpg');
+
+#right-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #A1C084;
+    border-width: 1px;
+
+
+}
+
+#right-image {
+    background: url('../images/skanestairs.jpg') no-repeat center center;
     height: 100%;
+
 }
