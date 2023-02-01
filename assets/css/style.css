@@ -25,6 +25,7 @@ h2 {
 
 .brown-text {
     color:#453621;
+    padding-bottom: 25px;
 }
 
 #logo {
@@ -154,7 +155,7 @@ a, a:visited {
     color:#453621;
     background-color: #A1C084;
     width:30%;
-    height: 200px;
+    height: 320px;
     float: left;
     padding: 20px 0 0 0;
     text-align: center;
@@ -163,16 +164,17 @@ a, a:visited {
 
 #forest-image {
     background: url('../images/Forest1.jpg') no-repeat center center;
-    height: 80%;
+    height: 75%;
     width: 80%;
     margin: auto;
+    margin-bottom: 10%;
     text-align: center;
 
 }
 
 #valley-image {
     background: url('../images/Valley1.jpg') no-repeat center center;
-    height: 80%;
+    height: 75%;
     width: 80%;
     margin: auto;
     text-align: center;
@@ -180,7 +182,7 @@ a, a:visited {
 
 #coast-image {
     background: url('../images/Coast1.jpg') no-repeat center center;
-    height: 80%;
+    height: 75%;
     width: 80%;
     margin: auto;
     text-align: center;
@@ -223,7 +225,14 @@ footer {
 img {
     height: 200px;
     width: 200px;
+    overflow: hidden;
 
+}
+
+#img-s {
+    height: 150px;
+    width: 300px;
+    overflow: hidden;
 }
 
 .textfloat {
