@@ -20,6 +20,7 @@ h1 {
 h2 {
     font-family: Outfit, Verdana;
     color: #A1C084;
+    padding-bottom: 5px;
 }
 
 .brown-text {
@@ -148,7 +149,8 @@ h2 {
 }
 
 footer {
-    height: 100px;
+    background: #A1C084;
+    height: 50px;
 }
 
 .socials {
