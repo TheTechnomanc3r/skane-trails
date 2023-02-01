@@ -192,5 +192,5 @@ img {
 .textfloat {
     float:right;
     margin-right: 60%;
-    text-align: center;
+    text-align: left;
 }
