@@ -10,7 +10,6 @@ body {
     font-family: Lato, Verdana;
     font-weight: 300;
     color: #A1C084;
-    background-color:#886c46;
 }
 
 h1 {
@@ -84,13 +83,36 @@ a, a:visited {
 .form-section {
     clear: left;
     height: 600px;
+    width: 400px;
     margin-left: 20px;
+    margin-top: 100px;
+    margin-bottom: 20px;
 }
 
 .form-styling {
     color: coral;
 
 }
+
+.textborder {
+    border: 2px solid #A1C084;
+}
+
+.btn {
+    color: #FFFFFF;
+    border-radius: 2px;
+    background-color: #A1C084;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 50x 50px 25px 25px;
+    font-size: 1.2em;
+    transition-duration: 0.3s;
+}
+
+.btn:hover {
+    background-color: #453621;
+}
+
 
 #description {
     height: 600px;
@@ -208,4 +230,11 @@ img {
     float:right;
     margin-right: 60%;
     text-align: left;
+}
+
+.input-text {
+    width: 100%;
+    height: 30px;
+    margin: 5px 5px 0 0;
+    color:#453621
 }
