@@ -24,26 +24,34 @@
     <section id="skane-welcome">
         <div id="welcome-image"></div>
     </section>
-    <section id="description">
-        <h1>Explore the beautiful nature of Skåne</h1>
-        <div id="left-desc">
-            <div>
-                <h2>Hiking Adventures <i class="fa-solid fa-mountain-sun"></i></h2>
-            <p class="brown-text">In southern Sweden you fill find this beatiful county famous for it's vast fields, deep forests
-                and overall pleasent scenery. Do you like the coastal environments, the magnificent forests or maybe the stunning open valleys?
-     
-                There is no wrong place to start your hike. Young or old? Beginner or Expert. The trails of skåne offers something for everyone
-                So get your boots on and start hiking
-             </p>
-            </div>
-            <div>
-                <h2>Recommended Equipment</h2>
+    <section class="form-section">
+        <h1>Questions? Contact us down below</h1>
+        <div>
+            <form action="" method="post">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="fname">
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lname">
+                <label for="email">E-mail</label>
+                <input type="email" id="email" name="email">
 
-                <p class="brown-text">Some trails can involve som rougher terrain and the weather can shift a lot depending on the time of year you visit.
-                   The first thing you should make sure you have are a sturdy pair of hiking boots.
-                </p>
-            </div>
+                <h2>Subject</h2>
+
+                <label for="trailsq">Trails</label>
+                <input type="radio" id="trailsq" name="subject" value="Trails">
+                <label for="equipment">Equipment</label>
+                <input type="radio" id="equipment" name="subject" value="Equipment">
+                <label for="other">Other</label>
+                <input type="radio" id="other" name="subject" value="Other">
+
+                <h2>Your Question</h2>
+                <textarea name="" id="" cols="30" rows="10"></textarea>
+
+                <input type="submit">
+                <input type="reset">
+            </form>
         </div>
+
     </section>
     <footer>       
         <ul class="socials">

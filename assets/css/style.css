@@ -10,6 +10,7 @@ body {
     font-family: Lato, Verdana;
     font-weight: 300;
     color: #A1C084;
+    background-color:#886c46;
 }
 
 h1 {
@@ -78,6 +79,17 @@ a, a:visited {
     height: 400px;
     width: 100%;
     overflow: hidden;
+}
+
+.form-section {
+    clear: left;
+    height: 600px;
+    margin-left: 20px;
+}
+
+.form-styling {
+    color: coral;
+
 }
 
 #description {
