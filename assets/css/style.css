@@ -41,6 +41,10 @@ h2 {
     line-height: 75px;
 }
 
+a, a:visited {
+    color:#A1C084;
+}
+
 #menu li {
     float: right;
     margin-right: 30px;
@@ -52,11 +56,14 @@ h2 {
 }
 
 #menu a:hover {
+
     color: #453621;  
     }
 
 .active {
-    border-bottom: 1px solid #453621; 
+    
+    border-bottom: 1px solid #453621;
+    color:#453621;
 
 }    
 
@@ -100,8 +107,6 @@ h2 {
     border-style: solid;
     border-color:#453621;
     border-width: 1px;
-
-
 
 }
 
@@ -173,4 +178,19 @@ footer {
     bottom: 200px;
     text-align: center;
     color:#453621;
+}
+
+.trail-bg {
+    background-color: chartreuse;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+.textfloat {
+    float:right;
+    margin-right: 60%;
+    text-align: center;
 }
