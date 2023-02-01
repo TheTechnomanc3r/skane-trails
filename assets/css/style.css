@@ -148,7 +148,7 @@ h2 {
 }
 
 footer {
-    height: 200px;
+    height: 100px;
 }
 
 .socials {
@@ -164,4 +164,11 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #453621;
+}
+
+.visit {
+    position: relative;
+    bottom: 200px;
+    text-align: center;
+    color:#453621;
 }
