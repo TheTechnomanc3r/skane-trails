@@ -250,3 +250,25 @@ img {
     margin: 5px 5px 0 0;
     color:#453621
 }
+
+@media screen and (max-width: 1200px) {
+
+    #description{
+        width: 65%;
+        height: 600px;
+        
+    }
+
+    #right-desc {
+        clear:both;
+        float: left;
+    }
+
+    #trail-types {
+        width: 65%;
+        clear: both;
+        float: left;
+
+    }
+
+}
