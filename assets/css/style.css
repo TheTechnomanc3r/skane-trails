@@ -272,3 +272,14 @@ img {
     }
 
 }
+
+@media screen and (max-width: 900px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 25px;
+
+    }
+
+    
+}
