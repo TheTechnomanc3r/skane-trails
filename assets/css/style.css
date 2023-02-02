@@ -154,7 +154,7 @@ a, a:visited {
 
 }
 
-#trail-types div {
+#trail-types > div {
     color:#453621;
     background-color: #A1C084;
     width:30%;
