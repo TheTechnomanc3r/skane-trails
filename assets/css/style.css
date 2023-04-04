@@ -172,7 +172,7 @@ a, a:visited {
 #trail-types > div {
     color:#453621;
     background-color: #6A994E;
-    width: 33%;
+    width: 320px;
     height: 320px;
     float: left;
     padding: 20px 0 20px 0;
@@ -182,29 +182,21 @@ a, a:visited {
 
 #forest-image {
     background: url('../images/Forest1.jpg') no-repeat center center;
-    height: 75%;
-    width: 80%;
-    margin: auto;
-    margin-bottom: 10%;
-    text-align: center;
+    height: 300px;
+    width: 300px;
 
 }
 
 #valley-image {
     background: url('../images/Valley1.jpg') no-repeat center center;
-    height: 75%;
-    width: 80%;
-    margin: auto;
-    text-align: center;
+    height: 300px;
+    width: 300px;
 }
 
 #coast-image {
     background: url('../images/Coast1.jpg') no-repeat center center;
-    height: 75%;
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    
+    height: 300px;
+    width: 300px;
 }
 
 footer {
@@ -245,8 +237,8 @@ footer {
 }
 
 img {
-    height: 200px;
-    width: 200px;
+    height: 50%;
+    width: 50%;
     overflow: hidden;
 
 }
