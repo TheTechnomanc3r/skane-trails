@@ -24,6 +24,11 @@ h2 {
     padding-bottom: 5px;
 }
 
+p.b {
+    font-style: italic;
+    font-weight: bold;
+  }
+
 label {
     color:#453621;
 }
@@ -48,6 +53,13 @@ label {
 #logo {
     float: left;
     margin-left: 20px;
+    
+}
+
+#logo2 {
+    float: left;
+    margin-left: 20px;
+    margin-top: 30px;
     
 }
 
@@ -183,20 +195,16 @@ a, a:visited {
 #forest-image {
     background: url('../images/Forest1.jpg') no-repeat center center;
     height: 300px;
-    width: 300px;
-
 }
 
 #valley-image {
     background: url('../images/Valley1.jpg') no-repeat center center;
     height: 300px;
-    width: 300px;
 }
 
 #coast-image {
     background: url('../images/Coast1.jpg') no-repeat center center;
     height: 300px;
-    width: 300px;
 }
 
 footer {
@@ -234,6 +242,8 @@ footer {
     background-color: #6A994E;
     border-radius: 10px;
     padding: 15px;
+    margin-bottom: 30px;
+    margin-right: 30px;
 }
 
 img {
@@ -241,6 +251,11 @@ img {
     width: 50%;
     overflow: hidden;
 
+}
+
+.image-div {
+    height: 300px;
+    width: 300px;
 }
 
 #img-s {
@@ -293,4 +308,14 @@ img {
     }
 
     
+}
+
+@media screen and (max-width: 600px) {
+
+    .image-div {
+        height: 200px;
+        width: 200px;
+    }
+     
+
 }
