@@ -28,6 +28,10 @@ label {
     color:#453621;
 }
 
+.mg-left {
+    margin-left: 20px;
+}
+
 
 
 .brown-text {
@@ -209,9 +213,7 @@ footer {
     left:0;
     width:100%;
     height: 75px;
-
-
-}
+} 
 
 .socials {
     text-align: center;
