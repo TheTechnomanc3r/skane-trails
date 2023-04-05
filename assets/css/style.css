@@ -44,6 +44,7 @@ label {
     color:#453621;
     padding-bottom: 25px;
     font-size: 1.1em;
+    font-weight: bold;
 
 }
 
@@ -258,8 +259,8 @@ img {
 }
 
 .image-div {
-    height: auto;
-    width: auto;
+    height: 300px;
+    width: 300px;
 }
 
 #img-s {
