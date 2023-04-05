@@ -1,12 +1,18 @@
 
 # Skåne Trails
 
+
+
 Skåne Trails is a website dedicated to hikers and nature lovers of all kind.
 It's purpose is to show off the beatiful nature and walking trails of southern Sweden,
 and at the same time give some general hiking tips and recommendations.
 
 Skåne trails will be especially helpful for tourists and other visitors who are
 looking for a good outdoor adventure and wants to get going right away!
+
+![Responsive img](https://i.imgur.com/QwxDNBG.png)
+
+
 
 
 ## Features
@@ -36,31 +42,36 @@ looking for a good outdoor adventure and wants to get going right away!
 
     This page lets the user get in contact with Skåne trails, And the form lets the user choose a subject and ask a question in the textarea. The user is asked to fill in name and e-mail.
 
+## Design
 
+- Color scheme
+The color scheme was generated with the help of https://coolors.co/
 
-
-
+![The Color Theme](https://i.imgur.com/lrMsq0A.png)
 
 ## Testing
 
 Performance testing was done on different screen sizes, From a normal computer screen
-to tablet and a iPhone. The website functions well and look good on different devices
+to tablet and a iPhone. The website functions well and look good on all different devices
 
-Tests where run on the form and the buttons work and functions as intended, the textfields and one radiobutton require text and a click input.
+Tests where run on the form and the buttons work and functions as intended.
 
 The form gathers the users input info and sends it to codeinstitute-form page as intended.
 
 The pictures show up clearly and gives a good overview on the respective trails.
 the text is responsive and readable on all devices.
 
-- HTML
+## HTML
 
-some empty headers(h2) where found during the WC3 validator test, but they contain
-pictures and doesn´t effect the performance and functions of the site
+![HTML Check](https://i.imgur.com/vYqg3Zc.png)
+- Passes the W3C HTML Validator with no errors
 
-- CSS
+## CSS
 
-One Error was found during the CSS WC3 validator test, a small "typo" under the .btn class. 
+![CSS Check](https://i.imgur.com/l8MklR4.png)
+- Passes the W3C CSS Validator with no errors
+
+
 ## Deployment
 
 The project was deployed to the Github, doing this steps:
@@ -96,5 +107,5 @@ http://www.google.com Klöva Hallar "Review Photos"
 
 ## Screenshot
 
-![App Screenshot](https://www.site-shot.com/cached_image/a1QPQKLmEe2LtAJCrBEABA)
+![Webpage picture](https://i.imgur.com/U6CFjcG.png)
 
