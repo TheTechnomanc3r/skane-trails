@@ -2,11 +2,11 @@
 # Skåne Trails
 
 Skåne Trails is a website dedicated to hikers and nature lovers of all kind.
-It's purpose is to show off the beatiful nature and trails of southern Sweden,
-and at the same time give some hiking tips and recommendations.
+It's purpose is to show off the beatiful nature and walking trails of southern Sweden,
+and at the same time give some general hiking tips and recommendations.
 
-Skåne trails will be especially helpful for tourists and other visitors who wants
-to get a quick overview and start to hike right away!
+Skåne trails will be especially helpful for tourists and other visitors who are
+looking for a good outdoor adventure and wants to get going right away!
 
 
 ## Features

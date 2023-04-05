@@ -1,3 +1,5 @@
+/* ------- Google fonts ------- */
+
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Outfit:wght@300&display=swap');
 
 * {
@@ -5,6 +7,8 @@
     padding: 0;
     border: 0;
 }
+
+/* ------- Body,Headers & Paragraphs ------- */
 
 body {
     font-family: Lato, Verdana;
@@ -38,7 +42,7 @@ label {
     margin-left: 20px;
 }
 
-
+/* ------- Brown text formatting ------- */
 
 .brown-text {
     color:#453621;
@@ -51,6 +55,8 @@ label {
 .brown-header {
     color:#453621;
 }
+
+/* ------- Logo and Menu ------- */
 
 #logo {
     float: left;
@@ -99,6 +105,8 @@ a {
 
 }    
 
+/* ------- Main image & div ------- */
+
 #welcome-image {
     height: 400px;
     width: 100%;
@@ -111,6 +119,8 @@ a {
     width: 100%;
     overflow: hidden;
 }
+
+/* ------- Form section & buttons ------- */
 
 .form-section {
     clear: left;
@@ -146,6 +156,7 @@ a {
     background-color: #453621;
 }
 
+/* ------- Sections on index page ------- */
 
 #description {
     height: 600px;
@@ -183,6 +194,8 @@ a {
 
 }
 
+/* ------- preview of walking trails and belonging images ------- */
+
 #trail-types > div {
     color:#453621;
     background-color: #6A994E;
@@ -211,6 +224,8 @@ a {
     height: 300px;
 }
 
+/* ------- Footer and social media links ------- */
+
 footer {
     position:fixed;
     bottom:0;
@@ -236,12 +251,7 @@ footer {
     color: #453621;
 }
 
-.visit {
-    position: relative;
-    bottom: 200px;
-    text-align: center;
-    color:#453621;
-}
+/* ------- Walking trails container ------- */
 
 .trail-bg {
     background-color: #6A994E;
@@ -251,6 +261,8 @@ footer {
     margin-right: 30px;
 }
 
+/* ------- Image properties ------- */
+
 img {
     height: 50%;
     width: 50%;
@@ -259,8 +271,8 @@ img {
 }
 
 .image-div {
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 500px;
 }
 
 #img-s {
@@ -268,6 +280,9 @@ img {
     width: 300px;
     overflow: hidden;
 }
+
+
+/* ------- Miscellaneous text properties ------- */
 
 .textfloat {
     float:right;
@@ -281,6 +296,9 @@ img {
     margin: 5px 5px 0 0;
     color:#453621
 }
+
+
+/* ------- Media queries ------- */
 
 @media screen and (max-width: 1200px) {
 
@@ -310,6 +328,11 @@ img {
         float: left;
         margin-left: 25px;
 
+    }
+
+    .image-div {
+        height: 200px;
+        width: 200px;
     }
 
     
