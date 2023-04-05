@@ -121,6 +121,7 @@ a {
 }
 
 /* ------- Form section & buttons ------- */
+/* the code to the form was taken from the "Love-Running" example */
 
 .form-section {
     clear: left;
@@ -166,6 +167,12 @@ a {
 
 #left-desc {
     padding-top: 30px;
+    width: 66%;
+    float: left;
+  
+}
+
+#intro-text {
     width: 66%;
     float: left;
   
@@ -341,8 +348,8 @@ img {
 @media screen and (max-width: 600px) {
 
     .image-div {
-        height: 200px;
-        width: 200px;
+        height: 180px;
+        width: 180px;
     }
      
 

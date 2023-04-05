@@ -12,6 +12,10 @@ looking for a good outdoor adventure and wants to get going right away!
 
 ![Responsive img](https://i.imgur.com/QwxDNBG.png)
 
+## Working Website
+
+### [Live Link to the Website](https://thetechnomanc3r.github.io/skane-trails/)
+
 
 
 
@@ -19,10 +23,12 @@ looking for a good outdoor adventure and wants to get going right away!
 
 - Navigation Bar
 
-    This section helps the user navigate easily throughout the website without having to use the "back" button.
+    - This section helps the user navigate easily throughout the website without having to use the "back" button.
+    - ![Navigation Bar](https://i.imgur.com/ui3rHKB.png)
 - Main image
 
-    This section welcomes the user with an idyllic nature image and sets the mood for the page.
+    - This section welcomes the user with an idyllic nature image and sets the mood for the page.
+    - ![Main image](https://i.imgur.com/SNScH8C.jpg)
 
 - Description section
 
@@ -32,11 +38,13 @@ looking for a good outdoor adventure and wants to get going right away!
     This section let user have a quick view of what kind of trails you can expect.
 - Footer
 
-    The footer section includes all the social media links connected to Skåne trails styled with icons and links that open in a new window.
+    - The footer section includes all the social media links connected to Skåne trails styled with icons and links that open in a new window.
+    - ![Footer](https://i.imgur.com/3IvEEyl.png)
+
 
 - The Trails page
 
-    This page lets the user see the top trails of skåne, each with a small picture and a quick summary next to them.
+    This page lets the user see the top 5 walking trails of Skåne, each with a small picture and a quick summary next to them.
 
 - The Contact Page
 
